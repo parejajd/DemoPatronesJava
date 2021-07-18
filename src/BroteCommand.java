@@ -4,6 +4,6 @@ public class BroteCommand extends Command {
     }
     @Override
     public void execute() { 
-        editor.textField.append(this.patojen.id + " Generando Tos" + "\n");  
+        editor.textField.append(this.patojen.id + " Generando Brote" + "\n");  
     }    
 }
